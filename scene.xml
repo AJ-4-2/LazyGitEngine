@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<scenes>
+	<scene>
+		<obj>
+			<posX>0</posX>
+			<posY>0</posY>
+			<name>background</name>
+			<layer>10</layer>
+		</obj>
+		<obj>
+			<posX>150</posX>
+			<posY>150</posY>
+			<name>player1</name>
+			<layer>100</layer>
+		</obj>
+		<sceneInfo>
+			<name>scene1</name>
+		</sceneInfo>
+	</scene>
+	<scene>
+		<sceneInfo>
+			<name>scene0</name>
+		</sceneInfo>
+		<obj>
+			<posX>150</posX>
+			<posY>150</posY>
+			<name>player0</name>
+		</obj>
+		<obj>
+			<posX>150</posX>
+			<posY>150</posY>
+			<name>player0</name>
+		</obj>
+	</scene>
+</scenes>

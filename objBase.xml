@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+
+<objects>
+	<obj>
+		<objType>BACKGROUND</objType>
+	</obj>
+	<obj>
+		<objType>PLAYER</objType>
+	</obj>
+</objects>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+
+<masterTextureList>
+	<textureList>
+		<name>img</name>
+		<file>img.xml</file>
+	</textureList>
+</masterTextureList>

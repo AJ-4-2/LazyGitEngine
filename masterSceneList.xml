@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+
+<xml>
+	<masterSceneList>
+		<scene>
+			<name>City</name>
+			<file>cityScene.xml</file>
+		</scene>
+	</masterSceneList>
+</xml>

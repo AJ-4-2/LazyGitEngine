@@ -1,0 +1,1044 @@
+# depslib dependency file v1.0
+1596234316 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb9a\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<vector>
+	<algorithm>
+	<iostream>
+	<System.h>
+	<EventHandler.h>
+	<Window.h>
+	<Renderer.h>
+	<Texture.h>
+	<XmlReader.h>
+	<Rect.h>
+	<Viewport.h>
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1583894278 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\close_code.h
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1583894278 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1561873968 c:\users\zergl\documents\gamefactory\sdl\libraries\sdl2_image-2.0.5\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1595650847 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb9a\src\system.cpp
+	"System.h"
+
+1595650847 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb9a\include\system.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+
+1595731088 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb9a\include\window.h
+	<SDL.h>
+	<stdio.h>
+
+1595731056 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb9a\src\window.cpp
+	"Window.h"
+
+1595795526 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb9a\include\xmlreader.h
+	<stdio.h>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+
+1595795605 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb9a\src\xmlreader.cpp
+	"XmlReader.h"
+	<sys/stat.h>
+
+1595707883 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb9a\src\renderer.cpp
+	"Renderer.h"
+
+1595707883 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb9a\include\renderer.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+
+1595783481 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb9a\src\texture.cpp
+	"Texture.h"
+
+1595782288 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb9a\include\texture.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<stdio.h>
+
+1595707979 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb9a\src\eventhandler.cpp
+	"EventHandler.h"
+
+1595707960 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb9a\include\eventhandler.h
+	<SDL.h>
+
+1595738950 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb9a\src\rect.cpp
+	"Rect.h"
+
+1595773819 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb9a\include\rect.h
+	<SDL.h>
+
+1596234163 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb9a\src\viewport.cpp
+	"Viewport.h"
+
+1596234151 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb9a\include\viewport.h
+	<iostream>
+	<SDL.h>
+	"Rect.h"
+
+1602805902 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\eventhandler.cpp
+	"EventHandler.h"
+	<iostream>
+
+1600907182 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\eventhandler.h
+	<SDL.h>
+
+1596478172 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\rect.cpp
+	"Rect.h"
+
+1596478142 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\rect.h
+	<SDL.h>
+
+1595707883 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\renderer.cpp
+	"Renderer.h"
+
+1595707883 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\renderer.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+
+1600906263 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\system.cpp
+	"System.h"
+
+1595650847 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\system.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+
+1610387108 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\texture.cpp
+	"Texture.h"
+
+1633633362 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\texture.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<stdio.h>
+
+1657555720 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\window.cpp
+	"Window.h"
+
+1595731088 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\window.h
+	<SDL.h>
+	<stdio.h>
+
+1638902506 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\xmlreader.cpp
+	"XmlReader.h"
+
+1635007636 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\xmlreader.h
+	<string>
+	<vector>
+	<iostream>
+	"FileReader.h"
+
+1651513191 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<vector>
+	<iostream>
+	<Engine.h>
+
+1596465302 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\viewport.h
+	<iostream>
+	<SDL.h>
+	"Rect.h"
+
+1596465818 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\viewport.cpp
+	"Viewport.h"
+
+1596477060 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\object.cpp
+	"Object.h"
+
+1596477060 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\object.h
+
+1634932373 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\texturehandler.cpp
+	"TextureHandler.h"
+
+1634933675 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\texturehandler.h
+	<SDL.h>
+	<SDL_image.h>
+	"Texture.h"
+	"XmlReaderOld.h"
+
+1596489517 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\searchsort.cpp
+	"searchSort.h"
+	<string>
+	<vector>
+
+1596489517 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\searchsort.h
+	<string>
+	<vector>
+
+1620845718 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\entity.cpp
+	"Entity.h"
+
+1620845569 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\entity.h
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	<string>
+	"Rect.h"
+
+1600914938 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\objreader.h
+	<stdio.h>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	"searchSort.h"
+
+1600915302 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\objreader.cpp
+	"ObjReader.h"
+	<sys/stat.h>
+
+1597912315 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\rworeader.cpp
+	"RwoReader.h"
+
+1597911846 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\rworeader.h
+	<SDL.h>
+	<SDL_image.h>
+
+1615557564 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\manager.cpp
+	"Manager.h"
+
+1615563163 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\manager.h
+	"TextureHandler.h"
+	"ObjHandler.h"
+	"SceneHandler.h"
+
+1634932472 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\objhandler.cpp
+	"ObjHandler.h"
+
+1634933675 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\objhandler.h
+	"XmlReaderOld.h"
+	"Entity.h"
+	"Player.h"
+	"Background.h"
+
+1605804088 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\vectorsearch.cpp
+	"VectorSearch.h"
+
+1605804088 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\vectorsearch.h
+	<stdio.h>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<iostream>
+
+1620845569 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\background.cpp
+	"Background.h"
+
+1620845569 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\background.h
+	<string>
+	"Entity.h"
+
+1620845569 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\player.cpp
+	"Player.h"
+
+1620845569 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\player.h
+	"Entity.h"
+	<string>
+
+1634932472 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\scenehandler.cpp
+	"SceneHandler.h"
+
+1634933675 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\scenehandler.h
+	<string>
+	<vector>
+	"XmlReaderOld.h"
+	"Scene.h"
+
+1620921800 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\scene.cpp
+	"Scene.h"
+
+1620921800 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\scene.h
+	<vector>
+	<string>
+
+1665942382 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\engine.cpp
+	"Engine.h"
+
+1633634534 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\engine.h
+	"DataManager.h"
+	"SystemManager.h"
+	"FileReader.h"
+
+1639067130 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\datamanager.h
+	"TextureHandler.h"
+	"ObjHandler.h"
+	"SceneHandler.h"
+	"XmlReaderOld.h"
+	"Entity.h"
+	<iostream>
+	"XmlReader.h"
+	<string>
+	<vector>
+	"XmlParser.h"
+
+1615850577 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\systemmanager.h
+	"System.h"
+	"EventHandler.h"
+	"Window.h"
+	"Renderer.h"
+	"Texture.h"
+	"Viewport.h"
+
+1639194925 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\datamanager.cpp
+	"DataManager.h"
+
+1616154076 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\systemmanager.cpp
+	"SystemManager.h"
+
+1619105685 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\entityconstructor.cpp
+	"EntityConstructor.h"
+
+1619105685 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\entityconstructor.h
+
+1620926779 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\activedatamanager.cpp
+	"ActiveDataManager.h"
+
+1620926779 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\activedatamanager.h
+
+1623943737 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\dataloader.cpp
+	"DataLoader.h"
+
+1623943737 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\dataloader.h
+
+1639067099 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\filereader.h
+	<string>
+	<vector>
+	<sstream>
+	<iostream>
+	<fstream>
+
+1639067107 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\filereader.cpp
+	"FileReader.h"
+	<sys/stat.h>
+	<vector>
+
+1634569589 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\xmlfilereader.cpp
+	"XmlFileReader.h"
+	<sys/stat.h>
+
+1634569589 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\xmlfilereader.h
+	<string>
+	<vector>
+	<sstream>
+	<iostream>
+	<fstream>
+
+1634850286 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\xmlvalidator.h
+	<string>
+	<vector>
+	<iostream>
+
+1634665200 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\xmldataparser.cpp
+	"XmlDataParser.h"
+
+1633968252 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\xmldataparser.h
+
+1634850455 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\xmlvalidator.cpp
+	"XmlValidator.h"
+
+1634933581 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\xmlreaderold.h
+	<stdio.h>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<iostream>
+	<stdio.h>
+
+1634933554 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\xmlreaderold.cpp
+	"XmlReaderOld.h"
+	<sys/stat.h>
+
+1635527116 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\xmlparser1d.cpp
+	"XmlParser1d.h"
+
+1635527115 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\xmlparser1d.h
+
+1635527132 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\xmlparser2d.cpp
+	"XmlParser2d.h"
+
+1635527132 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\xmlparser2d.h
+
+1635527146 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\xmlparser3d.cpp
+	"XmlParser3d.h"
+
+1635527146 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\xmlparser3d.h
+
+1635527155 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\xmlparser4d.cpp
+	"XmlParser4d.h"
+
+1635527155 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\xmlparser4d.h
+
+1666049470 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\xmlparser.cpp
+	"XmlParser.h"
+
+1657642992 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\xmlparser.h
+	<string>
+	<vector>
+	<iostream>
+	"XmlData.h"
+
+1665941048 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\xmldata.h
+	<iostream>
+	"XmlData.h"
+	<string>
+	<vector>
+
+1666049575 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\xmldata.cpp
+	"XmlData.h"
+	<stdio.h>
+
+1665444091 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\src\xmlextract.cpp
+	"XmlExtract.h"
+
+1665799091 c:\users\zergl\documents\gamefactory\sdl\rebuilds\rb10\include\xmlextract.h
+
+1651513191 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<vector>
+	<iostream>
+	<Engine.h>
+
+1633634534 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\engine.h
+	"DataManager.h"
+	"SystemManager.h"
+	"FileReader.h"
+
+1639067130 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\datamanager.h
+	"TextureHandler.h"
+	"ObjHandler.h"
+	"SceneHandler.h"
+	"XmlReaderOld.h"
+	"Entity.h"
+	<iostream>
+	"XmlReader.h"
+	<string>
+	<vector>
+	"XmlParser.h"
+
+1634933675 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\texturehandler.h
+	<SDL.h>
+	<SDL_image.h>
+	"Texture.h"
+	"XmlReaderOld.h"
+
+1633633362 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\texture.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<stdio.h>
+
+1634933581 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\xmlreaderold.h
+	<stdio.h>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<iostream>
+	<stdio.h>
+
+1634933675 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\objhandler.h
+	"XmlReaderOld.h"
+	"Entity.h"
+	"Player.h"
+	"Background.h"
+
+1620845569 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\entity.h
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	<string>
+	"Rect.h"
+
+1596478142 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\rect.h
+	<SDL.h>
+
+1620845569 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\player.h
+	"Entity.h"
+	<string>
+
+1620845569 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\background.h
+	<string>
+	"Entity.h"
+
+1634933675 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\scenehandler.h
+	<string>
+	<vector>
+	"XmlReaderOld.h"
+	"Scene.h"
+
+1620921800 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\scene.h
+	<vector>
+	<string>
+
+1635007636 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\xmlreader.h
+	<string>
+	<vector>
+	<iostream>
+	"FileReader.h"
+
+1639067099 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\filereader.h
+	<string>
+	<vector>
+	<sstream>
+	<iostream>
+	<fstream>
+
+1657642992 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\xmlparser.h
+	<string>
+	<vector>
+	<iostream>
+	"XmlData.h"
+
+1665941048 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\xmldata.h
+	<iostream>
+	"XmlData.h"
+	<string>
+	<vector>
+
+1615850577 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\systemmanager.h
+	"System.h"
+	"EventHandler.h"
+	"Window.h"
+	"Renderer.h"
+	"Texture.h"
+	"Viewport.h"
+
+1595650847 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\system.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+
+1600907182 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\eventhandler.h
+	<SDL.h>
+
+1595731088 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\window.h
+	<SDL.h>
+	<stdio.h>
+
+1595707883 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\renderer.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+
+1596465302 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\viewport.h
+	<iostream>
+	<SDL.h>
+	"Rect.h"
+
+1620926779 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\activedatamanager.cpp
+	"ActiveDataManager.h"
+
+1620926779 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\activedatamanager.h
+
+1620845569 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\background.cpp
+	"Background.h"
+
+1623943737 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\dataloader.cpp
+	"DataLoader.h"
+
+1623943737 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\dataloader.h
+
+1666103414 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\datamanager.cpp
+	"DataManager.h"
+
+1666049930 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\engine.cpp
+	"Engine.h"
+
+1620845718 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\entity.cpp
+	"Entity.h"
+
+1619105685 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\entityconstructor.cpp
+	"EntityConstructor.h"
+
+1619105685 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\entityconstructor.h
+
+1602805902 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\eventhandler.cpp
+	"EventHandler.h"
+	<iostream>
+
+1639067107 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\filereader.cpp
+	"FileReader.h"
+	<sys/stat.h>
+	<vector>
+
+1615557564 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\manager.cpp
+	"Manager.h"
+
+1615563163 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\manager.h
+	"TextureHandler.h"
+	"ObjHandler.h"
+	"SceneHandler.h"
+
+1596477060 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\object.cpp
+	"Object.h"
+
+1596477060 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\object.h
+
+1634932472 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\objhandler.cpp
+	"ObjHandler.h"
+
+1620845569 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\player.cpp
+	"Player.h"
+
+1596478172 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\rect.cpp
+	"Rect.h"
+
+1595707883 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\renderer.cpp
+	"Renderer.h"
+
+1620921800 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\scene.cpp
+	"Scene.h"
+
+1634932472 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\scenehandler.cpp
+	"SceneHandler.h"
+
+1596489517 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\searchsort.cpp
+	"searchSort.h"
+	<string>
+	<vector>
+
+1596489517 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\searchsort.h
+	<string>
+	<vector>
+
+1600906263 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\system.cpp
+	"System.h"
+
+1616154076 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\systemmanager.cpp
+	"SystemManager.h"
+
+1610387108 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\texture.cpp
+	"Texture.h"
+
+1634932373 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\texturehandler.cpp
+	"TextureHandler.h"
+
+1605804088 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\vectorsearch.cpp
+	"VectorSearch.h"
+
+1605804088 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\vectorsearch.h
+	<stdio.h>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<iostream>
+
+1596465818 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\viewport.cpp
+	"Viewport.h"
+
+1657555720 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\window.cpp
+	"Window.h"
+
+1634665200 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\xmldataparser.cpp
+	"XmlDataParser.h"
+
+1633968252 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\xmldataparser.h
+
+1665444091 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\xmlextract.cpp
+	"XmlExtract.h"
+
+1665799091 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\xmlextract.h
+
+1634569589 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\xmlfilereader.cpp
+	"XmlFileReader.h"
+	<sys/stat.h>
+
+1634569589 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\xmlfilereader.h
+	<string>
+	<vector>
+	<sstream>
+	<iostream>
+	<fstream>
+
+1666049470 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\xmlparser.cpp
+	"XmlParser.h"
+
+1638902506 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\xmlreader.cpp
+	"XmlReader.h"
+
+1634933554 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\xmlreaderold.cpp
+	"XmlReaderOld.h"
+	<sys/stat.h>
+
+1634850455 source:c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\src\xmlvalidator.cpp
+	"XmlValidator.h"
+
+1634850286 c:\users\zergl\documents\gamefactory\sdl\rebuilds\lazygitengine\include\xmlvalidator.h
+	<string>
+	<vector>
+	<iostream>
+
