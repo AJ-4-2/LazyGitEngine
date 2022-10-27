@@ -1,8 +1,0 @@
-<?xml version="1.0" ?>
-
-<scenes>
-	<scene>
-		<sceneGroupName>City</sceneGroupName>
-		<file>cityScene.xml</file>
-	</scene>
-</scenes>
